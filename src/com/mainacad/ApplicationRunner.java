@@ -9,8 +9,6 @@ import java.util.logging.Logger;
 
 public class ApplicationRunner {
     private static final Logger LOGGER = Logger.getLogger(ApplicationRunner.class.getName());
-
-
     public static void main(String[] args) {
       /*  v1
         String text = "Sum by division for 12345 is +";
