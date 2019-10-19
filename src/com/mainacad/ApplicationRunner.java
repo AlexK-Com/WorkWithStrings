@@ -29,6 +29,7 @@ public class ApplicationRunner {
          LOGGER.info(stringBuilder.toString());
          LOGGER.info(stringBuffer.toString());
 */
+     // test 
      // v3
      String testText = " abc1de 2fg3h i4jkl5mn ";
 
